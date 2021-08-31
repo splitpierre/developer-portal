@@ -702,6 +702,14 @@ const Showcases = [
     source: null,
     tags: ["nft"],
   },
+  {
+    title: "Li'l Goats",
+    description: "Goat Battle Game with the cutest goats on Cardano!",
+    preview: require("./showcase/lilgoats.png"),
+    website: "https://lilgoats.io/",
+    source: null,
+    tags: ["nft", "game"],
+  },
 ];
 
 export const TagList = Object.keys(Tags);
